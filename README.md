@@ -1,16 +1,13 @@
 # Thoughts on Matrixread
 
-💭 Comment system for my programming blog
+💭 Comment system for matrixread blog
 
-🔒 Secure, Open Source and no tracking 
+🔒 Secure, Open Source, No Ads, No Tracking 
+
+:octocat: No database needed. All data is stored in GitHub Discussions. 
  
-Powered by [Utterances](https://utteranc.es/)🔮
+🚀Powered by [giscus](https://giscus.app/)💎
 
 ## How does it work
 
-When a user comments on a blog post the Utterances bot searches for an issue in this repository with the issue name same as the URL and creates a new issue if it doesn't exist and the comment is appended on that issuse. The main requirement is that the user must have a GitHub account.
-
-## Why I chose Utterances
-* Less maintainance and zero cost 
-* Automatic spam protection by default
-* Better comments with markdown and reactions to comments
+Giscus uses the GitHub Discussion API based on the page url and creates a new discussion if it doesn't exist. To comment, visitors must authorize the giscus app to post on their behalf using the GitHub OAuth flow. Alternatively, visitors can comment on the GitHub Discussion directly. You can moderate the comments on GitHub.
