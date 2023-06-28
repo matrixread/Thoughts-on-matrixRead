@@ -1,6 +1,6 @@
 # Thoughts on Matrixread
 
-💭 Comment system for matrixread blog
+💭 Comment system for matrixRead blog
 
 🔒 Secure, Open Source, No Ads, No Tracking 
 
@@ -11,3 +11,5 @@
 ## How does it work
 
 Giscus uses the GitHub Discussion API based on the page url and creates a new discussion if it doesn't exist. To comment, visitors must authorize the giscus app to post on their behalf using the GitHub OAuth flow. Alternatively, visitors can comment on the GitHub Discussion directly. You can moderate the comments on GitHub.
+
+👉 [View Comments](https://github.com/matrixread/Thoughts-on-Matrixread/discussions)
