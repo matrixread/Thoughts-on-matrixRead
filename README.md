@@ -1,6 +1,6 @@
 # Thoughts on Matrixread
 
-💭 Comment system for matrixRead blog
+💭 Comment system for matrixread.com blog
 
 🔒 Secure, Open Source, No Ads, No Tracking 
 
