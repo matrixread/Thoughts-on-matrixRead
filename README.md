@@ -1,10 +1,9 @@
 # Thoughts on matrixRead
+👉 Comment system for matrixread.com blog
 
-👉 [View Comments](https://github.com/matrixread/Thoughts-on-Matrixread/discussions)
+💭 [View Comments](https://github.com/matrixread/Thoughts-on-Matrixread/discussions)
 
 🚀 Powered by [giscus](https://giscus.app/)💎
-
-💭 Comment system for matrixread.com blog
 
 🔒 Secure, Open Source, No Ads, No Tracking 
 
